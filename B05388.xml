@@ -1,0 +1,234 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letters of publication of a patent granted by their Majesties King VVilliam and Queen Mary, in favours of the chirurgions, and chirurgion-apothecaries of Edinburgh.</title>
+            <author>Scotland. Sovereign (1689-1694 : William and Mary)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05388</idno>
+            <idno type="STC">Wing S1518</idno>
+            <idno type="STC">ESTC R183081</idno>
+            <idno type="EEBO-CITATION">52615065</idno>
+            <idno type="OCLC">ocm 52615065</idno>
+            <idno type="VID">176170</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05388)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176170)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2762:37)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Letters of publication of a patent granted by their Majesties King VVilliam and Queen Mary, in favours of the chirurgions, and chirurgion-apothecaries of Edinburgh.</title>
+                  <author>Scotland. Sovereign (1689-1694 : William and Mary)</author>
+                  <author>Scotland. Privy Council.</author>
+               </titleStmt>
+               <extent>[3] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh, :</pubPlace>
+                  <date>1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Initial letter.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Physicians --  Legal status, laws, etc. --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:176170:1"/>
+            <head>LETTERS OF PUBLICATION Of an Patent Granted by Their Majeſties KING VVILLIAM AND QUEEN MARY, In favours of the <hi>Chirurgions,</hi> and <hi>Chirurgion-Apothecaries</hi> of EDINBURGH.</head>
+            <opener>
+               <signed>
+                  <seg rend="decorInit">W</seg>ILLIAM By the Grace of God King of Great Brittian, <hi>France</hi> and <hi>Ireland,</hi> Defender of the Faith,</signed>
+               <salute>To <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Macers of our Privy Council, Meſſengers at Arms; Our Sheriffs in that part Conjunctly and Severally Specially Conſtitute, Greeting,</salute>
+            </opener>
+            <p>FOR AS MUCH AS ANENT the Ad<g ref="char:EOLhyphen"/>dreſs given in to the Lords of Our privy Council. Be <hi>Alexander Monteith</hi> Deacon of the Chirurgions of <hi>Edinburgh,</hi> for himſelf, and in name and behalf of the Incorporation of the <hi>Chirurgions</hi> and <hi>Chirurgion-Apothecaries</hi> of the ſaid Burgh; REPRESENTING, that where they have a Patent under His Majeſties Great Seal, bearing date the Twentie Eight day of <hi>February</hi> One Thouſand ſix Hundred and Ninety four Years, Giving Ratifying and Confirming to them their whole Rights, Liberties, Priviledges and Immunities, in manner therein amply ſpecified: Which patent was alſo Ratified in the laſt Seſſion of the preſent Current Parliament, as the ſaid Patent and Ratification thereof, and therewith produced would Teſtifie. And ſeing it was ne<g ref="char:EOLhyphen"/>ceſſary for the Information of all Our Leidges, and that none therein concerned might pretend Ignorance, that the foreſaid Patent be pub<g ref="char:EOLhyphen"/>liſhed by Letters of Publication, directed by warrand of the ſaids Lords of Our Privy Council as is uſual in the like Caſes, AND THEREFORE, Humbly Craving that Letters might be direct for publiſhing the above Patent and Ratification. The ſaids Lords having conſidered the foreſaid Addreſs, with the Patent and Ratification mentioned therein and produced therewith; They by their Act of the day and date of thir Preſents, have ordained thir Our Letters of Publication to be direct under the Signet of Council for publiſhing the ſaid patent and Ratification, containing the Tenor of the Patent, <hi>De verbo in verbum,</hi> inſert therein, and have allowed the ſaids Letters to be Printed and Publiſhed: FOLLOWES the Tenor of the ſaid Patent.
+<floatingText xml:lang="lat" type="letter_patent">
+                  <body>
+                     <opener>
+                        <signed>
+                           <hi>G<g ref="char:V">Ʋ</g>LIELM<g ref="char:V">Ʋ</g>S</hi> &amp; <hi>MARIA,</hi> Dei Gratia <hi>Scotiae, An<g ref="char:EOLhyphen"/>gliae, Franciae</hi> &amp; <hi>Hiberniae,</hi> Rex &amp; Regina, Fideique Defenſores</signed> 
+                        <salute>OMNIBUS probis hominibus ad quos praeſentes Literae pervene<g ref="char:EOLhyphen"/>rint, Salutem:</salute>
+                     </opener>
+                     <p>Quandoquidem Nos ex ingenti noſtro zelo, quo omnes artes &amp; ſcientias infra imperii noſtri fines florere &amp; promoveri volumus, Regio noſtro pectore ſerio expendamus, quam utilis &amp; quam neceſſaria, et domi et foris, ſit illa Societas ſeu Collegium Chi<g ref="char:EOLhyphen"/>rurgorum, quae in antiqua noſtra Civitate <hi>Edinburgi</hi> eſt conſtituta; quaeque Literatura et experientia, proba inſtitutione, et multis perigri<g ref="char:EOLhyphen"/>nationibus exteris comparata, nullis uſpiam terrarum in ea arte cedar, etiam quam celeberrimis: Quumque peritia illa in Arte <hi>Chirur<g ref="char:EOLhyphen"/>gica</hi> et aeſtimatio, ortum praecipue ducat a notitia illa quam habent Artis pharmaceuticae, qua ſua medicamenta et pharmaca uſque adeo rite componere norunt, ut <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>is erroribus et comm<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſſiis, quae Pharmacopoeis meris accidere ſolent, quaeque non poſſunt non evenire, ſi duae illae Artes diverſis et diſtin 'tis, execeantur manibus, non ſubj<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ciantur, Quum denique attente conſideramus, poſt factam illam Senatus <hi>Edin<g ref="char:EOLhyphen"/>burgenſis</hi> prudentia Societatem <hi>Chirurgorum</hi> et <hi>Chirurgorum-Pharmacopoeorum,</hi> quam proſperos habeat illa conjuncto Succeſſus, quippe quae artes illas, in perfectionem quam maximam evexerit, et medium praecipuum ſit, quo multis Clarorum Virorum liberis de victu atque amictu ſatis commode proſpicitur, et Exercitus noſtri et Claſſes, <hi>Chirurgis</hi> doctiſſimis et expertiſſimis abunde inſtruantur, et ab eo<g ref="char:EOLhyphen"/>rum Diſcipulis in iis Regni noſtri locis, ubi Medici et Pharmocopoei perpauci admodum ſint et rori, ea cura et fide Subditorum Noſtrorum, ſaluti adeo bene proſpicitur, atque hactenus neque factum fuerat, ne que fieri potuit, uſque eo, ut noſtrum mereantu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> aſpectum gratioſum, favorem et benignitatem; Itaque certiores vos omnes eſſe volumus. Nos ex proprio noſtro motu, certa ſcientia et praerogativa Regali, ſine tamen praecedentis cujuſcunque juris ipſis conceſſi praejudicio, ſed ad eorum omnium ſpeciatim munimen et propugnationem, Damus, Concedimus, Ratum-facimus, Approbamus et Confirmamus praedictae Societati ſeu Collegio <hi>Chirurgorum Edinburgenſium,</hi> &amp; ſuis in ea arte Succeſſoribus in perpetuum, Omnia jura, Privilegia, Libertates, Immunitates &amp; Conceſſiones, a quocunque Regum Noſtrorum Praedeceſſorum, vel a Senatu urbano <hi>Edinburgenſi,</hi> vel ab Ordinibus Regni in ſuis conventibus publicis ipſis data, &amp; donata, cum omnibus donis, Literis patentibus, actis, decretis &amp; conſtitutionibus inde ſequentibus, in eorum favorem &amp; commodum aeque ſpecia<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>im atque generatim contentis in Approbatione ſereniſſimi Regis CAROLI <hi>Secundi</hi> beatiſſimae memoriae, ac Ordinum Regni in ſuo publico Conventu vigeſimo ſecundo die menſis <hi>Auguſti, Anno Domini, Milleſimo Sexcenteſimo Septuageſimo.</hi> Ea autem ſunt ſequentia, <hi>viz.</hi> Acta Praefecti, Praetorum &amp; Conſulum urbis <hi>Edinburgenſis,</hi> ſuo Sigillo urbano munita, Primo Die <hi>Julii.</hi> Anno Domini milleſimo quingenteſimo quinto, in commodum &amp; favorem <hi>Chirurgorum</hi> &amp; <hi>Barbitonſorum</hi> ejuſdem urbis, cum omnibus Juribus. Privilegiis &amp; Libertatibus in eo Urbis diplomate contentis: Et ſimiliter etiam Confirmationem &amp; Approbatio<g ref="char:EOLhyphen"/>nem illius diplomatis factam &amp; conceſſam praedictis <hi>Chirurgis</hi> à Praedeceſſore noſtro <hi>JACOBO</hi> ejus Nominis quarto <hi>Scotorum</hi> Rege beatiſſimae Memoriae, ſub Secreto ejus Sigillo, de data decimo tertio die <hi>Octobris,</hi> Anno Domini milleſimo quingenteſimo ſexto. Atque etiam Exemptionis Epiſtolam, à quondam Sereniſſima <hi>MARIA</hi> SCOTORUM <hi>Regina,</hi> ſub ſuo Secreto Sigillo factam &amp; conceſſam, de data undecimo d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e menſis <hi>Maij,</hi> Anno Domini milleſimo quingenteſimo ſexageſimo ſeptimo. Et ſimiliter Epiſtolam praemiſſa in eorum favorem conceſſa confirmantem &amp; approban<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>em ab <hi>JACOBO</hi> ſexto SCOTORUM <hi>Rege</hi> beatiſſimae Memo<g ref="char:EOLhyphen"/>riae, ſub privato ſuo Sigillo, de data ſexto die <hi>Junij;</hi> Anno Domini milleſimo ſexcenteſimo decimo tertio. Necnon Decretum, ſeu Acta Ordinum in Publico ſuo Conventu, decimo ſeptimo die <hi>Novembris,</hi> Anno Domini milleſimo ſexcenteſimo quadrageſimo primo, in eorum favorem factum. Sicut &amp; in eundem finem Decretum Magiſtratus &amp; Senatus <hi>Edinburgenſis,</hi> decimo die menſis <hi>Auguſti,</hi> An<g ref="char:EOLhyphen"/>no Domini milleſimo ſexcenteſimo quadrageſimo nono conditum. Et ab eodem Magiſtratu &amp; Senatu, aliud Senatus-Conſultum eodem tempore conſcriptum, vigeſimo ſecundo die menſis <hi>Junij,</hi> Anno Domini milleſimo ſexcenteſimo quinquageſimo quinto; Et ab iiſdem alterum nono die menſis <hi>Novembris,</hi> Anno Domini milleſimo ſexcenteſimo ſexageſimo. Itidem &amp; aliud ejuſdem Magiſtratus &amp; Sena<g ref="char:EOLhyphen"/>tus Civitatis Decretum, in favorem <hi>Chirurgorum-Pharmacopoeorum</hi> &amp; <hi>Pharmacopoeorum Edinburgenſium,</hi> vigeſimo quinto die <hi>Februarij,</hi>
+                        <pb facs="tcp:176170:2"/>
+                        <pb facs="tcp:176170:3"/>Anno Domini milleſimo ſexcenteſimo quinquageſimo ſeptimo factum. Et aliud in eorum favorem, ab iiſdem, primo die <hi>Aprilis,</hi> Anno Domini milleſimo ſexcenteſimo ſexageſimo quarto à Senatu <hi>Edinburgi</hi> Urbis conditum in eorum favorem, cum Libertatibus &amp; Privi<g ref="char:EOLhyphen"/>legiis eiſdem additis &amp; in dicta approbationis Litera Ordinum in ſuo publico Conventu habita contentis, vigeſimo ſecundo die men<g ref="char:EOLhyphen"/>ſis <hi>Auguſti,</hi> Anno Domini milleſimo ſexcenteſimo ſeptuageſimo. In omnibus Capitibus, Clauſulis, Circumſtantiis &amp; Contentis, fe<g ref="char:EOLhyphen"/>cundum eorum formam &amp; tenorem, in omnibus Punctis eorundem. Atque porto quum apprime animo volvimus quam multa, quam eminentia, &amp; quam commoda ſint ea à <hi>Chirurgis Pharmacopoeis</hi> officia noſtris ſubditis fidelibus praeſtita. Nosigitur majores ut ip<g ref="char:EOLhyphen"/>ſis animos addamus, &amp; ad populi noſtri majus commodum &amp; levamen, virtute Praerogativae noſtrae Regalis (ad quam ſolummodo Inſtitutio Societatum, earumque Privilegiorum conceſſio &amp; extenſio indubitate pertinent) &amp; poſt plenam hac in re experientiam habi<g ref="char:EOLhyphen"/>tam, ex proprio noſtro motu, &amp; certa ſcientia Non ſolum de novo damus, concedimus, approbamus, &amp; in perpetuum confirmamus praedictis <hi>Chirurgis,</hi> &amp; <hi>Chirurgis Pharmacopoeis,</hi> ſuiſque in dictis artibus &amp; vocationibus ſucceſſoribus, omnia &amp; ſingula eorum Jura, Libertates &amp; Immunitates quaecu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>que illis perprius conceſſa; Et ſpeciatim abſque praejudicio generalitatis antedictae, ſed in eorum ulte<g ref="char:EOLhyphen"/>rius munimen, Praedictam illam Exemptionis Literam, à Sereniſſima <hi>MARIA Regina</hi> Praeſatis <hi>Chirurgis,</hi> de data ſuperdicta con<g ref="char:EOLhyphen"/>ceſſam, quam praedictis <hi>Chirurgis Pharmacopoeis</hi> eorumque Diſcipulis &amp; Servis, per praeſentes extendi volumus. Ac ulterius declara<g ref="char:EOLhyphen"/>mus eam comprehendere omnes Militias &amp; Evocationes (quae verba nunc valent uſu) aquè ac Exercitus, Equitatus, Convocationes, Ar<g ref="char:EOLhyphen"/>miluſtria, aliaque inibi contenta, &amp; dictos <hi>Chirurgos,</hi> &amp; <hi>Chirurgos-Pharmacopoeos,</hi> eorumque praedictos ab iſtis ſervitiis, tam in Perſo<g ref="char:EOLhyphen"/>nis quam in rebus &amp; bonis, &amp; ab omni ſolutione Pecuniae ratione eorundem, Liberos eſſe &amp; Immunes ordinamus, talibus ſolutionibus quae per acta Regni Ordinum, in ſuis Comitiis publicis imponentur, vel quam dicti <hi>Chirurgi</hi> ul<g ref="char:EOLhyphen"/>lo tempore praeterito ſolvere conſueverunt, exceptis. Proviſo <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>amen illi vel tales eorum qui maxime idonei habebuntur prae<g ref="char:EOLhyphen"/>ſentes ſint cum exercitibus noſtris ad praeſtandam ſuam Curam &amp; Officium Omnibus quibus opus fuerit parati cum vocati erint. Verum etiam Damus, Concedimus, Comprobamus illis ipſiſmet, eorumque Succeſſoribus, plenum &amp; liberum Privilegium, Licen<g ref="char:EOLhyphen"/>tiam &amp; Poteſtatem faciendi &amp; exercendi utramque Artem <hi>Chirurgiam &amp; Pharmaciam,</hi> &amp; ſuos etiam Diſcipulos in Arte utraque inſtru<g ref="char:EOLhyphen"/>endi, examinandi, &amp; admit<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>endi eos quos in utraque arte ſatis eruditos, &amp; ad utramque faciendam ſatis Idoneos Magiſtros invenerint, atque etia<g ref="char:cmbAbbrStroke">̄</g> conſtituendi &amp; praeſcribendi Viſores, Speculatores ſeu Judices, qui an ſana ſint an cor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>upta <hi>Pharmacopoeorum Pharmaca,</hi> ſeu Medica<g ref="char:EOLhyphen"/>menta Judicent, &amp; ſententiam dicant, atque ut omnibus ſuis prius Conceſſis ſibi privilegiis aeque plene &amp; ſpeciatim fruantur atque hic ver<g ref="char:EOLhyphen"/>batim inſerta eſſent, concedimus: Atque ſimiliter cum in Memoriam revocamus in literis illis patentibus a Sereneſimo Rege. <hi>CAROLO</hi> ſecundo Beatiſſimae Memoriae conceſſis quibus Medici <hi>Edinburgenſes</hi> in Collegium eriguntur. <hi>Chirurgorum</hi> &amp; <hi>Chirgorum pharmacopoeo<g ref="char:EOLhyphen"/>rum Edinburgenſiam</hi> Privilegia ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rta &amp; <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ecta, ſeu int<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>gra &amp; indemnia, <hi>Chirurgis</hi> ibidem reſervantur &amp; praeſtantur: Atque cau<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>um eſt &amp; declaratum quod non obſtantibus paedictis l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>eris patentibus, Praedictos <hi>Chirurgos</hi> &amp; <hi>Chirurgos pharmacopoeos</hi> ſolos &amp; <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>mnino po<g ref="char:EOLhyphen"/>teſtatem <hi>Edinburgi</hi> habere curandi omnia Vulnerum genera, Colliſiones, Oſſium Fracturas &amp; Diſlocationes, Con<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>uſiones, Tumore, Ul<g ref="char:EOLhyphen"/>cera &amp; ſimilia, &amp; omnia accidentia ab his orta, quae ſolius <hi>Chirurgiae</hi> operationum ſunt ſubj<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>cta: At morbi omnes internae Originis, Medi<g ref="char:EOLhyphen"/>cis ſolis committendi ſunt. (Exceptis u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> ſupra excipitur) Atque ſi quae inter Medicos &amp; <hi>Chirurgos</hi> &amp; <hi>Chirurgos-pharmacopoeos</hi> Lis vel Controverſia de hiſce rebus oriatur, Ra<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>um eſſe &amp; judicatum volumus, praedictum Medicorum Collegium, nullam habere poteſtatem irrogandi Mulctura<g ref="char:cmbAbbrStroke">̄</g> in <hi>Chirurgos</hi> aut <hi>Chirugos pharmacopoeos</hi> qui Cives <hi>Edinburgenſes</hi> ſunt, ſine conſenſu Praefecti vel Praetoris alicujus, ejus Urbis &amp; in caſu abſentiae vel detrectationis eorum, ad Status Noſtri Concilii Dominos appellationem utriuſque fieri volumus N<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſque Intelligentes praedictas Literas patentes ita caute conceptas in ſenſu &amp; intentione, ad effectum infra mentionatum. Itaque, Nos volu<g ref="char:EOLhyphen"/>mus &amp; Declaramus, ſententiam illarum Literarum patentium in favorem quorundam Medicorum <hi>Edinburgenſium</hi> conceptarum, Curam morborum omnium ab Origine Internorum, ad ſolos Medicos privatim pertinere: At verò Morbos omnes &amp; Languores ab externa Cauſa provenientes &amp; eorum accidentia, ſivè Medicamentis interne miniſtratis, ſivè externè applicatis curentur, proprium eſſe &amp; verùm <hi>Chirurgorum</hi> operationum ſubjectum, &amp; ad <hi>Chirurgos</hi> &amp; <hi>Chirurgos pharmacopoeos</hi> tanquam negotii ſui &amp; artis partes neceſſarias &amp; na<g ref="char:EOLhyphen"/>turales, proprie pertinere. Et Volumus &amp; definimus hos vetos rectos &amp; fixos inter utramque artem futuros perpetuo limites: Et ut omnes Judices Noſtri atque Subditi, haec in Commodum <hi>Chirurgorum</hi> &amp; <hi>Chirurgorum pharmacopoeorum</hi> cum omni favore quantum admi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ti poteſt, interpretentur. Et denique, ut in omni Controverſia inter Medicos &amp; ipſos <hi>Chirurgos,</hi> Magiſtratus &amp; Senatus <hi>Edinburgenſis</hi> ſint ſoli in prima inſtantia Judices, quippe in ſimilibus Caſibus e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ga Cives ſuos, Nativi ad modum &amp; Commodi ſunt Arbitri: At verò ſi alte<g ref="char:EOLhyphen"/>ra utra pars de injotia aliqua veljuris proc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>aſtinatione conqueratur, tum, &amp; in eo caſu, Nominamus &amp; Conſtituimus Status Noſtri Concilii Dominos ſolos et unicos Judices, cum pl<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>a po<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ent a definite et ultimo decernendi et determinandi, in ea re, ſicut in aliis Noſtri Dominii rebus facere Conſueverunt Et prae<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>erea quia nos ex bona et matura deliberatione, Reviximus Ratificavimus et approbavimus, Prae<g ref="char:EOLhyphen"/>dictum illud Senatus <hi>Edinburgenſis</hi> actum in Anno Domini Milleſimo, Sexcenteſimo, Quinquageſimo ſeptimo factum, pro unienda et origenda Fraternitate <hi>Chirurgorum-pharmacopoeorum</hi> et <hi>Pharmacopoeorum</hi> in unam Societatem, ob fines et uſus inibi ſpecificatos. Id<g ref="char:EOLhyphen"/>ci<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>co nos id ipſum in omni tempore futuro efficax fore Ordinamus; Cum hoc aditamenito, Quod ſi <hi>Pharmacopoei</hi> quovis tempore, aut quavis occaſione, cum <hi>Chirurgis-pharmacopoeis,</hi> mode e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> ad fines in dicto acto Praeſcriptos; concurrere recuſarunt; tunc et in his Caſi<g ref="char:EOLhyphen"/>bus, <hi>Chirurgi-pharmacopoei</hi> ſola<g ref="char:cmbAbbrStroke">̄</g> habebunt poteſtate<g ref="char:cmbAbbrStroke">̄</g>, et per ſe ipſos procedant in probandis et examinandis Intrantibus <hi>Pharmacopoeis:</hi> Ac etiam in Viſitandis <hi>Pharmacopoeorum</hi> Officinis, eorumque Pharmacis et Medicamentis, ac cognoſcant et in eiſdem determinent ſecun<g ref="char:EOLhyphen"/>dum genuinum ſenſum et intentionem praedicti Acti. Et Nos Animo Perpendentes, Quam neceſſarium ſit pro bono et ſalute Omnium Noſtrorum Subditorum ut ab Ignorantia et Erroribus Imperitorum, qui in <hi>Chirurgia</hi> et <hi>Pharmacia</hi> abſque ulla probatione practicare au<g ref="char:EOLhyphen"/>deant, Immunes Reddantur. Igitur per praeſentes Declaramus et Ordinamus, ut Nemini in futurum permittatur in <hi>Chirurgia</hi> vel <hi>Phar<g ref="char:EOLhyphen"/>macia</hi> operari ſuper Corpora Humana Mortua vel Viva, infra Civitatem <hi>Edinburgi</hi> ejuſque Suburbia, Tres Lothianas, Vice-Comitatus de <hi>Fife, Peebles, Selkirk, Roxburgh,</hi> &amp; <hi>Berwick,</hi> ſed illis qui prius per <hi>Chirurgos-pharmacopoeos Edinburgenſes</hi> Probati &amp; Approba<g ref="char:EOLhyphen"/>ti <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>uerint, &amp; eorum Teſtimonia, ſemet ipſos in hunc effectum Approbantiâ &amp; Permittentia, habuerint; &amp; hoc ſub talibus poenis quas Domi<g ref="char:EOLhyphen"/>nis Noſtri Secreti Concilii in Contemptores boni Ordinis, &amp; Noſtrae in Premiſſis Authoritatis infligere viſum fuerit. Noſque itidem Re<g ref="char:EOLhyphen"/>commendamus Magiſtratibus <hi>Edinburgi,</hi> eoſque Ordinamus, ut Praefatos <hi>Chirurgos</hi> ac <hi>Chirurgos-pharmacopoeos</hi> in praedictis eorum inte<g ref="char:EOLhyphen"/>gris Juribus, Privilegiis Libertatibus &amp; Immunitatibus protegant &amp; defendant, omnemque debitum concurſum in ſupprimendis &amp; pu<g ref="char:EOLhyphen"/>miendis Perſonis Libertatem non habentibus, qui practicare praeſument abſque Examinatione &amp; Approbatione, ut dictum eſt, eis praebe<g ref="char:EOLhyphen"/>ant: Et poſtremo hanc noſtram praeſentem Literam &amp; Conceſſionem in hoc Noſtro Currenti, ſeu quovis alio ſubſequenti Parliamento, Ratificarum iri in verbo Principum promittimus.</p>
+                     <closer>
+                        <dateline>
+                           <hi>In cujus rei Testimonium</hi> praeſentibus, Magnum Sigillum appendi praecipimus, <hi>Da<g ref="char:EOLhyphen"/>tum</hi> apud Aulam Noſtram de <hi>Kenſingtoun,</hi> 
+                           <date>Vigeſimo octavo Die Menſis <hi>Februarii,</hi> Anno poſt Chriſtum natum. Milleſimo, Sexcenteſi<g ref="char:EOLhyphen"/>mo, Nonageſimo Quarto, Regnique Noſtri Quinto.</date>
+                        </dateline> Per Signaturam Manu S. D. N. Regis ſupra Scriptam.</closer>
+                  </body>
+               </floatingText> Sealed, Written upon the back, thus,
+<q>Written to the Great Seal, and Regiſtrated the Twentieth fifth Day of <hi>August</hi> 1694 Years, <hi>Sic ſubſcribitur D<g ref="char:V">Ʋ</g>N RONALD</hi> Depute. Sealed at <hi>Edinburgh,</hi> The 29 Day of <hi>Auguſt</hi> 1694, in Abſence of Mr. <hi>John Dickſon</hi> by, <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ſubſcri<g ref="char:EOLhyphen"/>bitur THO. AIKMAM.</hi>
+               </q> Follows the Tenor of the Ratification,
+<floatingText xml:lang="eng" type="ratification">
+                  <body>
+                     <opener>
+                        <dateline>At <hi>Edinburgh,</hi> 
+                           <date>The Seventeenth Day of <hi>July</hi> 1695 Years.</date>
+                        </dateline>
+                     </opener>
+                     <p>OUR SOVERAIGN LORD, with Advice and Conſent of the Eſtates of this preſent Parliament, has Ratified and Approven, And for His Highneſs and His Succeſſors perpetually Confirmed, Like as OUR SOVERAAIGN LORD with Advice and Con<g ref="char:EOLhyphen"/>ſent foreſaid, by thir Preſents Ratifies and Approves, and for His Highneſs and His Succeſſors perpetually Confirms, and Gift and Patent granted by OUR SOVERAIGN LORD and LADY King <hi>WILLIAM</hi> and Queen <hi>MARY,</hi> To and in Favours of the <hi>Chirurgions</hi> and <hi>Chirurgion Apothecaries</hi> of <hi>Edinburgh</hi> of the Date at <hi>Kenſingtoun</hi> the 29 Day of <hi>Februarie</hi> 1694 Years, and paſt Their Majeſties Great Seal of this Their Ancient Kingdom of SCOTLAND:</p>
+                  </body>
+               </floatingText> Here in the Ratification is inſert the Tenor of the foreſaid
+<pb facs="tcp:176170:4"/>
+               <pb facs="tcp:176170:5"/>Patent <hi>de Verbo in Verbum</hi> as expreſly above ſet down, In all and ſundrie the whole Heads, Points, Clauſes, Conditions, Articles and Circumſtances of the ſaid Gift and Patent, and of the haill other Acts, Gifts, Grants, Decreets, Ratifications, and others particular<g ref="char:EOLhyphen"/>ly and generally therein mentioned, Granted in favours of the ſaid Incorporation of the <hi>Chirurgions</hi> and <hi>Chirurgion-Apothecaries</hi> of whatſomever Dates, Formes, Tenors and Contents the ſamen be of in all Points. Diſpenſing with the generality thereof, And Ad<g ref="char:EOLhyphen"/>mitting, Allowing, Decerning and Ordaining, This preſent Ratification and Confirmation to be als Valide Effectual and Sufficient to the ſaids <hi>Chirurgions</hi> and <hi>Chirurgion-Apothecaries Reſpective,</hi> as if all the ſaids Gifts, Grants, Acts of Parliament, Acts of Bur<g ref="char:EOLhyphen"/>rows, Decreets, and Acts of Court and Town Council of <hi>Edinburgh</hi> and others, and Ratifications thereof, were all and every one of them at length, and <hi>Verbatim</hi> ſpecially and particularly Inſert, Ingroſſed, and contained hereintill, notwithſtanding to eſchew Prolixity, the ſamen is not ſo done. Whereanent and anent all other Defects and Imperfections. OUR ſaid SOVE<g ref="char:EOLhyphen"/>RAIGN LORD with Advice and Conſent foreſaid, has Diſpenſed, And for His Highneſs and His Succeſſors Diſpenſes for ever, notwithſtanding of whatſomever Exception of Law, may or can be proponed, objected or alledged in the contrary, which His Ma<g ref="char:EOLhyphen"/>jeſty, with Advice and Conſent foreſaid, Renounces and Diſcharges for ever. With full Power to the ſaids <hi>Chirurgions,</hi> and <hi>Chirurgion-A<g ref="char:EOLhyphen"/>pothecaries,</hi> and their Succeſſors, to make uſe of all the ſaids Acts, or any of them, without prejudice of one to another, to their beſt Advantage and Behoove, as they ſhall think fit and expedient. And for the better effectuating of the hail Premiſſes and Ends foreſaids, OUR SOVERAIGN LORD, with Advice and Conſent foreſaid, Ordains the Magiſtrats and Town-Council of <hi>Edinburgh,</hi> and their Succeſſors, to maintain and defend the ſaid <hi>Chirurgions,</hi> and <hi>Chirurgion Apothecaries,</hi> and their Succeſſors, in their haill Rights, Liber<g ref="char:EOLhyphen"/>ties, Immunities and Priviledges whatſomever, granted in their favours, notwithſtanding any of them ſhall exerce any other Office or Imployment beſides as Burges or Gild-Brother, and as tho' they did not the ſame. <hi>And Sicklike,</hi> OUR SOVERAIGN LORD, with Conſent foreſaid, Ordains the Magiſtrats of <hi>Edinburgh,</hi> and other Judges, Sheriffs and Magiſtrats within the ſaid Burgh, and alſo within the Sheriffdomes of the three <hi>Lothian's, Fiffe, Peebles, Selkirk, Roxburgh</hi> and <hi>Berwick,</hi> and their Officers to Aſſiſt and Concurr with the Deacon and Brethren of the Incorporation of <hi>Chirurgions</hi> and <hi>Chirurgion-Apothecaries</hi> of <hi>Edinburgh,</hi> and with the Viſitors and Brethren of the Fraternity and Brotherhood of <hi>Chirurgion-Apothecaries,</hi> and the <hi>Apothecaries</hi> of the ſaid Burgh, or any of them, and their Succeſſors reſpective, againſt any Perſon or Perſons, who ſhall exerce or practiſe any part or point of the ſaids Arts of <hi>Chirurgery</hi> or <hi>Pharmacy</hi> within the ſaid Burgh of <hi>Edinburgh,</hi> and Suburbs thereof, or in any Part of the ſaid Sheriffdomes a<g ref="char:EOLhyphen"/>bovenamed, or Barber-craft within the ſaid Burgh of <hi>Edinburgh,</hi> and Suburbs thereof, but ſuch as ſhall be firſt tryed, approven and admitted by the <hi>Chirurgions</hi> and <hi>Chirurgion Apothecaries</hi> of <hi>Edinburgh,</hi> (the major part being a <hi>quorum</hi>) and have their Certificates Approving and Licenſing them for that effect, under their Seals and Clerks hands, and againſt any Perſon or Perſons who contraveens any of their reſpective Rights, Liberties and Priviledges within the haill Bounds foreſaids: And alſo, againſt any Perſon or Perſons amongſt themſelves, contraveeners of their own Acts and Orders hereafter, and to exact Fines, Unlaws and Penalties from them, the one half of the Fines of Unfreemen, to belong to the ſeveral Magiſtrats within the Reſpective Juriſdictions, and the other half to the In<g ref="char:EOLhyphen"/>corporation or Brotherhood <hi>reſpectivè</hi> foreſaid. And if any Perſon ſhall find himſelf prejudged and wronged, by the Determination of either of the ſaid Incorporation or Brotherhood <hi>reſpectivè,</hi> contrare to the Laws, Liberties, Priviledges and Power granted to them, or either of them; Then, and in that caſe, they ſhall have their recourſe to the ſaids ſeveral Magiſtrats in the firſt inſtance, and there<g ref="char:EOLhyphen"/>after to the other Judicatories, in manner ſpecified in the ſaid Gift, who may Determine in theſe Caſes for both Parties. It is always hereby Provided and Declared, that this Ratification, ſhall be no wayes hurtful or prejudicial to a former Patent of Erection of the Royal Colledge of Phyſicians at <hi>Edinburgh,</hi> in <hi>November</hi> One thouſand ſix hundred eighty one Years, but that all their Liber<g ref="char:EOLhyphen"/>ties, Priviledges and Immunities, contained in their ſaid Patent be reſerved entire to them, ſicklike as if thir preſents had never been granted. Extracted forth of the Records of Parliament, by <hi>George</hi> Viſcount of <hi>Tarbat,</hi> Lord <hi>McLeod</hi> and <hi>Caſtle-haven,</hi> &amp;c. Clerk to his Majeſties Council, Regiſter and Rolls, <hi>Sic ſubſcribitur</hi> TARBAT <hi>Cls. Regiſt.</hi> As the ſaid Act of Privy Council, Ordaining thir Our Letters of Publication to be direct thereon, under the Signet of Council, in manner and to the effect above and underwritten more fully proports. OUR WILL IS HEREFORE, and Wee charge you ſtrictly and Command that Incontinent thir Our Letters ſeen, ye paſs to the Mercat Croſs of <hi>Edinburgh,</hi> and hail Remanent Mercat Croſſes of the ſeveral Shires, above mentioned in the ſaid Patent and other places needful; and there in Our Name and Authority make publication of the ſaid Patent and Ratification in Favours of the <hi>Chirurgions,</hi> and <hi>Chirurgion-Apothecaries,</hi> That all Our Leidges and other Perſons concerned may have full intimation thereof, and give obedience thereto: And that none may pretend Ignorance, under the Paines and Certifications in the the ſaid Gift and Ratification mentioned: and being farther Anſwerable, as Our Privy Council ſhall think fit, in caſe they contraveen, AND ALLOWES theſe preſents to be Printed and publiſhed: According to Juſtice, As ye will Anſwer to us thereupon. The whilk to do, wee Committ to you Conjunctly and Severally, Our full Power be thi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Our Letters, delivering them be you duely Execute and Indorſed again to the Bearer:</p>
+            <closer>
+               <dateline>Given under Our Signet at <hi>Edinburgh</hi> 
+                  <date>the Twentie third day of <hi>June,</hi> and of Our Reign the Eight year, 1696.</date>
+               </dateline>
+               <signed>
+                  <hi>Per Actum Dominorum Secreti Concilii. Gilb. Eliot.</hi> Cls. Sti. Conſ.</signed>
+            </closer>
+            <pb facs="tcp:176170:6"/>
+         </div>
+      </body>
+   </text>
+</TEI>
